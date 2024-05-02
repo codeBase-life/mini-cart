@@ -47,7 +47,7 @@ function clearShoppingListEl() {
 
 function clearInputFieldEl() {
     inputFieldEl.value = ""
-}
+} 
 
 function appendItemToShoppingListEl(item) {
     let itemID = item[0]
